@@ -1,0 +1,92 @@
+
+header{
+    border-bottom: 3px solid rgb(250, 31, 31);
+}
+
+.welcomeimg{
+    background-image: url(img/office.jpg);
+}
+.btn-primary{
+    background-color:#17a2b8;
+}
+.btn-outline-primary{
+    border-color:#17a2b8;
+    
+}
+.navbar2{
+    font-size:small ;
+    padding-left: 50px;
+}
+
+.container .content_1{
+    font-size: 10px;
+}
+
+.box{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.box1{
+    flex:1;
+}
+.box2{
+    flex:1;
+}
+ .card_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.main_t{
+justify-content: center;
+display:flex;
+flex-direction: row;
+}
+
+.p_server{
+    font-weight: bold;
+}
+.card_server{
+    font-size: 11px;
+    
+}
+.line_text{
+   
+        width: 100%; 
+        text-align: center; 
+        border-bottom: 1px solid #000; 
+        line-height: 0.2em;
+        margin: 10px 0 20px; 
+}
+
+.line_text span{
+    background:#fff; 
+    padding:0 10px; 
+}
+
+.c_1{
+    font-size: 1em;
+}
+.c_2{
+    font-size: 10px;
+}
+
+.flexbar{
+    
+ 
+    align-content: space-between;
+}
+.card-custom {
+  min-width: 128px;
+}
+
+
+
+.dflex{
+    display: flex;
+    align-content: space-between;
+}
